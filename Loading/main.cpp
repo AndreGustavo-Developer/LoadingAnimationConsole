@@ -3,8 +3,11 @@
 
 void loading()
 {
-	std::cout << "Loading ";
 	char progress = 219;
+
+	std::cout.width(40);
+	std::cout << "Loading\n";
+	std::cout.width(20);
 
 	for (int i = 0; i < 35; i++)
 	{
@@ -17,7 +20,9 @@ void loading()
 		if (i >= 10)
 			Sleep(25);
 	}
-	std::cout << "\nsuccessfully loaded\n";
+	std::cout << std::endl;
+	std::cout.width(42);
+	std::cout << "COMPLETE!\n";
 }
 
 int main()
