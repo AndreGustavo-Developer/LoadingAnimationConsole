@@ -22,6 +22,8 @@ int main()
 	cout.width(40);
 	cout << "loading style 2" << endl;
 	LoadingType2();
+	
+	cout << endl << endl;
 
 	return 0;
 }
