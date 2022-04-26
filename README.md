@@ -1,9 +1,16 @@
 # LoadingAnimationConsole
 
 <h3>simple loading bar animation for console</h3>
-<img height = "24" width = "24" src = "https://cdn-icons.flaticon.com/png/512/4669/premium/4669966.png?token=exp=1650930664~hmac=471e37f3dd30d4e98449e2cb371789c2"/>
 
 <p>loading style 1</p>
+<img  src = "https://github.com/AndreGustavo-Developer/LoadingAnimationConsole/blob/main/ImgReadme/loading1.gif"/>
+
 <p>loading style 2</p>
+<img  src = "https://github.com/AndreGustavo-Developer/LoadingAnimationConsole/blob/main/ImgReadme/loading2.gif"/>
 
 <h3>Technologies:</h3>
+<div style = "display: inline_block"><br>
+<img aling = "center" alt = "rafa-Js" height = "40" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+<img aling = "center" alt = "vs2022" height = "40" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+  
+</div>
